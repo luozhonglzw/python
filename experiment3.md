@@ -244,7 +244,7 @@ if  __name__ == '__main__':
 
 ```
 
-<img alt="Python提交" src="D:\bkml\大三上\python\2.png"/>
+![Python提交](2.png)
 
 ---
 
@@ -286,7 +286,8 @@ def duplicate_encode(word):
     return newword
 
 ```
-<img alt="Python提交" src="D:\bkml\大三上\python\1.png"/>
+
+![Python提交](1.png)
 
 ---
 
@@ -331,7 +332,7 @@ def valid_braces(string):
       return False
 
 ```
-<img alt="Python提交" src="D:\bkml\大三上\python\3.png"/>
+![Python提交](3.png)
 ---
 
 #### 第四题： 从随机三元组中恢复秘密字符串(Recover a secret string from random triplets)
@@ -392,7 +393,7 @@ def recoverSecret(triplets):
             return ''.join(lic)
 
 ```
-<img alt="Python提交" src="D:\bkml\大三上\python\4.png"/>
+![Python提交](4.png)
 ---
 
 提示：
@@ -434,7 +435,7 @@ def disemvowel(string):
 
 
 ```
-<img alt="Python提交" src="D:\bkml\大三上\python\5.png"/>
+![Python提交](5.png)
 ---
 
 提示：
@@ -468,7 +469,7 @@ name = ''.join(letters) # name = "lovelace"
 
 #### 第一题：3和5的倍数（Multiples of 3 or 5）
 
-<img alt="Python提交" src="D:\bkml\大三上\python\6.png"/>
+![Python提交](6.png)
 
 ```mermaid
  graph LR   
